@@ -12,7 +12,7 @@ A Streamlit web app that uses OpenAI's GPT to generate question-answer flashcard
 ## 📦 Installation
 
 ```bash
-git clone <[repo_url](https://github.com/thekeshavkumar/flashcard_generator)>
+git clone <(https://github.com/thekeshavkumar/flashcard_generator)>
 cd flashcard_generator
 pip install -r requirements.txt
 ```
