@@ -22,7 +22,7 @@ pip install -r requirements.txt
 Create a `.env` file with your OpenAI API key:
 
 ```
-OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_API_KEY=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
 ```
 
 ## ▶️ Run the App
